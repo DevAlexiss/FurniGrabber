@@ -1,0 +1,7 @@
+1- Programı aç (alexissfurnigrabber -> bin -> Debug -> alexissfurnigrabber)
+2- Seçtiğiniz furniyi hangi hotelden çekicekseniz yazın.
+
+Örnek: pink_dragon.nitro çekmek için pink_dragon yazın.
+
+
+SWF üzerinde çalışıyorum bitince github sayfamdan ulaşabilirsiniz

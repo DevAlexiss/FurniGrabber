@@ -1,0 +1,10 @@
+C:\Users\Toprak-Eylül\source\repos\alexissfurnigrabber\alexissfurnigrabber\bin\Debug\alexissfurnigrabber.exe.config
+C:\Users\Toprak-Eylül\source\repos\alexissfurnigrabber\alexissfurnigrabber\bin\Debug\alexissfurnigrabber.exe
+C:\Users\Toprak-Eylül\source\repos\alexissfurnigrabber\alexissfurnigrabber\bin\Debug\alexissfurnigrabber.pdb
+C:\Users\Toprak-Eylül\source\repos\alexissfurnigrabber\alexissfurnigrabber\obj\Debug\alexissfurnigrabber.csprojAssemblyReference.cache
+C:\Users\Toprak-Eylül\source\repos\alexissfurnigrabber\alexissfurnigrabber\obj\Debug\alexissfurnigrabber.Form1.resources
+C:\Users\Toprak-Eylül\source\repos\alexissfurnigrabber\alexissfurnigrabber\obj\Debug\alexissfurnigrabber.Properties.Resources.resources
+C:\Users\Toprak-Eylül\source\repos\alexissfurnigrabber\alexissfurnigrabber\obj\Debug\alexissfurnigrabber.csproj.GenerateResource.cache
+C:\Users\Toprak-Eylül\source\repos\alexissfurnigrabber\alexissfurnigrabber\obj\Debug\alexissfurnigrabber.csproj.CoreCompileInputs.cache
+C:\Users\Toprak-Eylül\source\repos\alexissfurnigrabber\alexissfurnigrabber\obj\Debug\alexissfurnigrabber.exe
+C:\Users\Toprak-Eylül\source\repos\alexissfurnigrabber\alexissfurnigrabber\obj\Debug\alexissfurnigrabber.pdb
